@@ -1,4 +1,4 @@
-# DataBriefing IPython notebooks
+# DataBriefing Jupyter notebooks
 
 These are example notebooks for articles on
 [https://www.databriefing.com/coding/](https://www.databriefing.com/coding/).
